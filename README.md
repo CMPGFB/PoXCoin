@@ -45,7 +45,7 @@ stacks deploy price-oracle.clar --private-key <PRIVATE_KEY>
 
 Overall, the PoXCoin smart contract system enables users to mint stablecoins using Stacks tokens as collateral while leveraging the PoX protocol, providing a stable and secure financial instrument. However, it is crucial to note that the PoXCoin smart contracts have not been audited, and the legal and tax implications have not been thoroughly explored prior to the publishing of these open-source Clarity contracts. The potential tax implications of PoXCoin may result in varying degrees of fiscal responsibility in different jurisdictions around the world. Use at your own risk.
 
-NoCodeClarity is a firm believer in the power of Bitcoin and Stacks which is why the PoXCoin system is open source.
+NoCodeClarity is believes in the power of Bitcoin and Stacks, which is why the PoXCoin system is open source.
 
 # License
 PoXCoin is licensed under the MIT License. See LICENSE for details.
