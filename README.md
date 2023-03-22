@@ -22,10 +22,15 @@ To deploy the PoXCoin smart contracts on the Stacks blockchain, follow these ste
 
 3. Compile each smart contract using the Stacks CLI:
 
-('''stacks compile stablecoin.clar''')
-('''stacks compile stablecoin-factory.clar''')
-('''stacks compile pox.clar''')
-('''stacks compile price-oracle.clar''')
+
+<pre>
+```
+claritystacks compile stablecoin.clar
+stacks compile stablecoin-factory.clar
+stacks compile pox.clar
+stacks compile price-oracle.clar
+'''
+</pre>
 
 4. Deploy the contracts to the Stacks testnet (replace <PRIVATE_KEY> with your private key):
 
