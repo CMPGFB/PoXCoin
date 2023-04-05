@@ -1,3 +1,7 @@
+;; PoXCoin
+;; Cultivated By NoCodeClarity, Inc.
+;; Dedicated to all
+
 ;; SIP-010 fungible token standard
 ;; https://github.com/stacksgov/sips/blob/main/sips/sip-010/sip-010-fungible-token-standard.md
 
