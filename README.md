@@ -50,5 +50,5 @@ NoCodeClarity is believes in the power of Bitcoin and Stacks, which is why the P
 # License
 PoXCoin is licensed under the MIT License. See LICENSE for details.
 
-Disclaimer
+# Disclaimer
 The PoXCoin smart contracts are provided as-is, without any warranties or guarantees of any kind. Before deploying any of these contracts to a production environment, it is crucial to thoroughly test and audit them. The author(s) of this repository are not responsible for any potential issues or losses that may arise from the use or deployment of these contracts. 
