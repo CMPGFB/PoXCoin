@@ -1,6 +1,6 @@
 # PoXCoin
 
-PoXCoin is a crypto-collateralized stablecoin project built on the Stacks blockchain. It leverages the Proof of Transfer (PoX) protocol, which enables users to lock up their Stacks (STX) tokens as collateral to mint stablecoins pegged to the value of the US dollar.
+PoXCoin is a crypto-collateralized stablecoin project built on the Stacks blockchain and secured by Bitcoin. It leverages the Proof of Transfer (PoX) protocol, which enables users to lock up their Stacks (STX) tokens as collateral to mint stablecoins pegged to the value of the US dollar.
 
 This repository contains a collection of Clarity smart contracts that form the basis of the PoXCoin system. These contracts manage user positions, collateral deposits, stablecoin minting and burning, and liquidation of under-collateralized positions.
 
